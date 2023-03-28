@@ -1,0 +1,3 @@
+# SquadronNG_Workspaces
+
+Files for Mateusz to give some insights into errors in logs....
